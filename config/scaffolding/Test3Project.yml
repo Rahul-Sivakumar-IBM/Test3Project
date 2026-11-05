@@ -1,9 +1,9 @@
-version: "1.0"
 info:
   model: int-scaffold
 packages:
-- name: Test3Project
+- gitBranch: main
   gitServerName: rahulsiv
   gitUrl: https://github.com/Rahul-Sivakumar-IBM
   gitUsername: Rahul-Sivakumar-IBM
-  gitBranch: main
+  name: Test3Project
+version: '1.0'
